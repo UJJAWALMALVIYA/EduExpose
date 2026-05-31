@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+sentencepiece
+streamlit
+sacrebleu
+pandas
