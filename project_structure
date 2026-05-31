@@ -1,0 +1,22 @@
+English_Hindi_Translator/
+│
+├── model/
+│   ├── config.json
+│   ├── tokenizer_config.json
+│   ├── pytorch_model.bin
+|   ├── generation_config.json
+│   └── vocab.json
+|     
+│
+├── dataset/
+│   ├── IITB.en-hi.en
+│   └── IITB.en-hi.hi
+|   ├── test.en
+|   ├── test.hi
+│
+├── train.py
+├── translate.py
+├── app.py
+├── requirements.txt
+├── README.md
+└── Project_Report.pdf
